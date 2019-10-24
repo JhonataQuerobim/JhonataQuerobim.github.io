@@ -6,7 +6,7 @@ $.ajax({
     //url: "https://api.myjson.com/bins/gbr4g",
     //url: "https://api.myjson.com/bins/ijsao",
     //url: "https://api.myjson.com/bins/qoydw",
-    url: "https://api.myjson.com/bins/z2lyc",
+    url: "https://api.myjson.com/bins/71b2s",
     dataType: "text",
     mimeType: "textPlain",
     async: false,
