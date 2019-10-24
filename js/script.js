@@ -5,7 +5,8 @@ var jogo = {};
 $.ajax({
     //url: "https://api.myjson.com/bins/gbr4g",
     //url: "https://api.myjson.com/bins/ijsao",
-    url: "https://api.myjson.com/bins/qoydw",
+    //url: "https://api.myjson.com/bins/qoydw",
+    url: "https://api.myjson.com/bins/z2lyc",
     dataType: "text",
     mimeType: "textPlain",
     async: false,
